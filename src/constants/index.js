@@ -35,7 +35,7 @@ export const experiences = [
   {
     year: "08/2024 - present",
     role: "Full Stack Web Developer",
-    company: "ACL Digital - Eli-Lilly (Client)",
+    company: "ACL Digital - Eli Lilly (Client)",
     description: "",
   },
   {
